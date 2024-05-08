@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MDE
+Comment=Mountain Desktop Enviroment
+Exec=/usr/bin/openbox-session
+TryExec=/usr/bin/openbox-session
+Type=Application
