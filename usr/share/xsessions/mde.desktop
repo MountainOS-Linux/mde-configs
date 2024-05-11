@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=MDE
+Comment=Mountain Desktop Enviroment
+Exec=/usr/bin/mde-session
+TryExec=/usr/bin/mde-session
+Type=Application
