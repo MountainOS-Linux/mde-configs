@@ -37,7 +37,7 @@ Plugin {
       command=logout
       image=gnome-logout
     }
-    image=/home/mikolaj/Pulpit/MDE assets/mde-configs/usr/share/lxpanel/images/logo.png
+    image=/usr/share/lxpanel/images/logo.png
   }
 }
 Plugin {
